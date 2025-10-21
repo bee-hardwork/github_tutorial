@@ -1,0 +1,8 @@
+1: tạo project trên github xong lấy về local
+
+git status (kiểm tra trạng thái file)
+git add . (thêm file)
+git commiit -m "your message" (tạo nội dung commit)
+git push origin main
+
+2: đẩy project từ local lên github 	
