@@ -18,3 +18,4 @@
     git pull (kéo các thay đổi mới nhất về)
     git branch (kiểm tra xem có những nhánh nào)
     git checkout -b branch_name (tạo 1 nhánh mới có tên là branch_name)
+    git conflict 
