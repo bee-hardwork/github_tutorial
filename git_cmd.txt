@@ -13,3 +13,8 @@
     git commit -m "your message"
     git remote add origin https://......
     git push origin master
+
+3: các câu lệnh khi làm việc teamwork
+    git pull (kéo các thay đổi mới nhất về)
+    git branch (kiểm tra xem có những nhánh nào)
+    git checkout -b branch_name (tạo 1 nhánh mới có tên là branch_name)
